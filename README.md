@@ -2,7 +2,7 @@
 **Checks for duped items in Hypixel Skyblock**
 
 # Download
-You can download the mod [here](https://cdn.discordapp.com/attachments/971940218343129108/1003145047895715950/WramDupeChecker_0.0.8.jar). The mod installs dependencies when the game is first launched.
+You can download the mod [here](https://cdn.discordapp.com/attachments/971940218343129108/1003151860695318548/WramDupeChecker_0.0.9.jar). The mod installs dependencies when the game is first launched.
 
 ## Information
 A simple but useful Hypixel Skyblock mod for forge 1.8.9 that checks NBT data, public api, private api, and item history for duped items. If duped items appear, it will darken the background of the item. 
